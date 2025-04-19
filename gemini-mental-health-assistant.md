@@ -106,7 +106,7 @@ Here’s a visual representation:
 
 ## 🚀 Try It Yourself
 
-📥 **[Download the Notebook](gemini-powered-mental-health-assistant.ipynb)**
+📥 **[Download the Notebook](https://github.com/pylkra/Google_GenAI/blob/main/Gemini-powered%20Mental%20Health%20Assistant.ipynb)**
 
 ---
 
